@@ -1,0 +1,5 @@
+{
+  "step": 0,
+  "thought": "To change the line spacing of the first two paragraphs to double line spacing, I need to access the line spacing settings in LibreOffice Writer. I will first select the text of the first two paragraphs and then apply the double line spacing option.",
+  "action": "drag(100, 200, 100, 300)"
+}
