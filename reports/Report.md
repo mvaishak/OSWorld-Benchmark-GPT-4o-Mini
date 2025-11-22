@@ -1,8 +1,8 @@
 # Evaluation Report: Feasibility of Efficient Vision-Language Models for Desktop Automation
 
-**Author:** Vaishak Menon
-**Date:** November 21, 2025
-**Subject:** Performance Analysis of GPT-4o-mini on OSWorld Benchmark (Subset)
+- **Author:** Vaishak Menon
+- **Date:** November 21, 2025
+- **Subject:** Performance Analysis of GPT-4o-mini on OSWorld Benchmark (Subset)
 
 ## 1. Executive Summary
 
